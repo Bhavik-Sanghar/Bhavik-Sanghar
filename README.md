@@ -18,7 +18,4 @@ Always on the lookout for the latest in tech trends and innovations. 🌐
 👨‍💻 **GitHub Profile:**
 - [Bhavik-Sanghar](https://github.com/Bhavik-Sanghar) 🖥️
 
-🌈 **Fun Fact:**
-I find joy in unraveling complex coding challenges while sipping on a cup of coffee! ☕
-
 Feel free to reach out if you have any questions, want to collaborate on projects, or just discuss tech! Happy coding! 🌟✨
