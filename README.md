@@ -1,4 +1,4 @@
-👋 Hi there! I'm Bhavik Sanghar, a tech enthusiast with a passion for Web Development and Cyber Security. 🚀
+👋 Hi there! I'm Bhavik Sanghar, a tech enthusiast with a passion for Machine Learning and Cyber Security. 🚀
 
 🌱 **Currently Learning:**
 - Information Technology at LDCE ⚙️
